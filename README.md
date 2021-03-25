@@ -2,8 +2,6 @@
 
 Personal website: **[dac.ac](https://dac.ac/en)**
 
-**[Contact me](mailto:contact@dac.ac)**
-
 <!--
 **dreth/dreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
