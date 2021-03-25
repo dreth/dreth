@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! Welcome to my github profile 🎈
+
+Make sure to check out my website as well: **[dac.ac](https://dac.ac/en)**
 
 <!--
 **dreth/dreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
