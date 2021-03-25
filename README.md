@@ -1,6 +1,8 @@
 ### Hi! Welcome to my github profile 🎈
 
-Make sure to check out my website as well: **[dac.ac](https://dac.ac/en)**
+Personal website: **[dac.ac](https://dac.ac/en)**
+
+**[Contact me](mailto:contact@dac.ac)**
 
 <!--
 **dreth/dreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
