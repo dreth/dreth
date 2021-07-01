@@ -2,10 +2,6 @@
 
 Personal website: **[dac.ac](https://dac.ac/en)**
 
-#### Cool stats
-
-[![My top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **dreth/dreth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
