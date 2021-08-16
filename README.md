@@ -8,8 +8,6 @@ All my profiles and info are there!
 
 At the moment I'm finishing my master's in statistics for data science at [UC3M](https://uc3m.es). You can take a peak at my [Final master project](https://github.com/dreth/tfm_uc3m), which is what I'm focusing most of my time on right now. It's a demographic dashboard showing statistics about Spain's mortality/life expectancy done mostly in shiny.
 
-I'm also job searching for a remote data-related job 🌱
-
 In my free time I research interesting blockchain/cryptocurrency things, play bass guitar, tinker with operating systems and occasionally play videogames.
 
 <!--
