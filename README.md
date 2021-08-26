@@ -1,4 +1,4 @@
-### Hi! Welcome to my github profile 🎈
+### Hi! Welcome! 🎈
 
 🌐 Check out my site: **[dac.ac](https://dac.ac/en)**
 
